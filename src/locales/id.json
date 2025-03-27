@@ -1,0 +1,21 @@
+{
+  "title": "Daftar Berry",
+  "search": "Cari...",
+  "add": "Tambah Produk",
+  "edit": "Ubah",
+  "delete": "Hapus",
+  "name": "Nama",
+  "action": "Aksi",
+  "detail": "Detail",
+
+  "detailTitle": "Detail Berry",
+  "fetch": "Tampilkan Detail",
+  "growthTime": "Waktu Tumbuh",
+  "size": "Ukuran",
+  "smoothness": "Kelembutan",
+  "soilDryness": "Kekeringan Tanah",
+
+  "productAdded": "Produk berhasil ditambahkan!",
+  "productUpdated": "Produk berhasil diperbarui!",
+  "submitFailed": "Terjadi kesalahan!"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Berry List",
+  "search": "Search...",
+  "add": "Add Product",
+  "edit": "Edit",
+  "delete": "Delete",
+  "name": "Name",
+  "action": "Action",
+  "detail": "Detail",
+
+  "detailTitle": "Berry Detail",
+  "fetch": "Show Detail",
+  "growthTime": "Growth Time",
+  "size": "Size",
+  "smoothness": "Smoothness",
+  "soilDryness": "Soil Dryness",
+
+  "productAdded": "Product added successfully!",
+  "productUpdated": "Product updated successfully!",
+  "submitFailed": "Something went wrong!"
+}
